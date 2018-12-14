@@ -4,6 +4,6 @@ The code was orignally developped by michal.melewski@gmail.com find it here http
 I simply made some changes so i could read graphql queries easily
 
 # Example
-![Example Output] (https://raw.githubusercontent.com/plenumlab/GQL-Helper/master/example-output.png)
+![Example Output](https://raw.githubusercontent.com/plenumlab/GQL-Helper/master/example-output.png)
 
       
